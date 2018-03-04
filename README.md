@@ -1,4 +1,4 @@
-[![SAGA](graphics_and_related/logo_saga_gh.png)](https://saga.diogomachado.pt)
+[![SAGA](_GRAPHICS_RELATED/logo_saga_gh.png)](https://saga.diogomachado.pt)
 
 ## Funcionalidades
 
@@ -27,4 +27,4 @@ Projeto iniciado no âmbito da disciplina de Programação II da Escola Superior
 Se quiser ajudar poderá fazer um pull request :+1: 
 
 ## Licença
- O projeto encontra-se abrangido pela licença GNU GPLv3, qualquer cópia terá obrigatoriamente os créditos dos desenvolvedores.
+ O projeto encontra-se abrangido pela licença GNU GPLv3, qualquer cópia terá obrigatoriamente os créditos dos programadores.
