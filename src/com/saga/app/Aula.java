@@ -1,4 +1,4 @@
 package com.saga.app;
 
-public class Aula {
+public class Aula extends DefaultAttributes {
 }

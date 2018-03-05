@@ -1,4 +1,4 @@
 package com.saga.app;
 
-public class Aluno {
+public class Aluno extends DefaultAttributes {
 }
