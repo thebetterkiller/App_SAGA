@@ -25,10 +25,6 @@
 hs_err_pid*
 
 # Intellij (new)
-.idea/
-*.iml
-*.iws
 out/
-!.idea/*.iml # save project settings
 
 # End of https://www.gitignore.io/api/java
