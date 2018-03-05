@@ -26,5 +26,6 @@ hs_err_pid*
 
 # Intellij (new)
 out/
+.idea/workspace.xml
 
 # End of https://www.gitignore.io/api/java
