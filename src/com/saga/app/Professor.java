@@ -12,6 +12,17 @@ public class Professor {
     }
 
     public void preencherSumario(Aula aula) {
+        if(aula.sumario==null) {
+            aula.sumario = aula.nome + "\n" + aula.numero + "\n";
+}
+        aula.adicionarLinhaSumario(this.nome+"\n");
+
+        /* String sumario:
+        nome
+        numero
+        assinatura prof
+        lista assinatura alunos
+        */
     }
 
     public void adicionar(Professor professor) {

@@ -8,7 +8,7 @@
     <node x="295.0" y="394.0">com.saga.app.Seguranca</node>
     <node x="261.0" y="208.0">com.saga.app.GabineteSeguranca</node>
     <node x="0.0" y="208.0">com.saga.app.Aula</node>
-    <node x="0.0" y="0.0">com.saga.app.Professor</node>
+    <node x="-434.0" y="-52.0">com.saga.app.Professor</node>
   </nodes>
   <notes />
   <edges />

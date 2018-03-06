@@ -28,4 +28,6 @@ hs_err_pid*
 out/
 .idea/workspace.xml
 
+reset.sh
+
 # End of https://www.gitignore.io/api/java
