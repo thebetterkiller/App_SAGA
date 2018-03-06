@@ -3,16 +3,23 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="0.0" y="150.0">com.saga.app.Aluno</node>
-    <node x="0.0" y="0.0">com.saga.app.DefaultAttributes</node>
-    <node x="127.0" y="150.0">com.saga.app.Aula</node>
-    <node x="0.0" y="75.0">com.saga.app.Professor</node>
+    <node x="271.0" y="0.0">com.saga.app.Aluno</node>
+    <node x="0.0" y="394.0">com.saga.app.GabineteProfessor</node>
+    <node x="295.0" y="394.0">com.saga.app.Seguranca</node>
+    <node x="261.0" y="208.0">com.saga.app.GabineteSeguranca</node>
+    <node x="0.0" y="208.0">com.saga.app.Aula</node>
+    <node x="0.0" y="0.0">com.saga.app.Professor</node>
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
-  <SelectedNodes />
-  <Categories />
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="58.0" />
+  <SelectedNodes>
+    <node>com.saga.app.Professor</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>
 </Diagram>
