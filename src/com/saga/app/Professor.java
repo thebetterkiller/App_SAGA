@@ -1,7 +1,6 @@
 package com.saga.app;
 
 public class Professor {
-
     private String nome;
     private long numero;
     private java.util.LinkedList<Aula> listaAulas;
