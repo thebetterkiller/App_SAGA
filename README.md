@@ -28,3 +28,5 @@ Se quiser ajudar poderá fazer um pull request :+1:
 
 ## Licença
  O projeto encontra-se abrangido pela licença GNU GPLv3, qualquer cópia terá obrigatoriamente os créditos dos programadores.
+ 
+ k
